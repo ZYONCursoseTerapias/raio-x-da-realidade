@@ -48,7 +48,7 @@ export default function IntroPage() {
           <div className="space-y-3 text-sm text-gray-700 leading-relaxed px-1">
             <p>Você vai responder 20 afirmações. Para cada uma, escolha entre Concordo totalmente, Concordo, Neutro, Discordo ou Discordo totalmente.</p>
             <p>Responda com honestidade. Não existe certo ou errado.</p>
-            <p>Ao final, você receberá a pontuação de cada área e um vídeo com informações a respeito da área que está causando um grande desequilíbrio na sua vida.</p>
+            <p>Ao final, você receberá a pontuação de cada área e uma análise personalizada sobre a área que está causando um grande desequilíbrio na sua vida.</p>
           </div>
 
           {/* Atenção */}
