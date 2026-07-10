@@ -1,4 +1,4 @@
-import { CAMADAS, VIDEO_URLS } from '../data/raioX'
+import { CAMADAS, TEXTOS_RESULTADO } from '../data/raioX'
 
 export interface ScoreCamada {
   id: string
@@ -13,8 +13,8 @@ export interface Resultado {
   scoreTotal: number
   percentualTotal: number
   camadas: ScoreCamada[]
-  camadaDominante: ScoreCamada  // maior pontuação → vídeo entregue
-  videoUrl: string
+  camadaDominante: ScoreCamada
+  textoDiagnostico: string
 }
 
 const NIVEL_LABEL = { baixo: 'Precisa de atenção', medio: 'Em desenvolvimento', alto: 'Equilibrado' }
@@ -35,11 +35,10 @@ export function calcularScores(respostas: Record<number, number>): Resultado {
   const scoreTotal = camadas.reduce((a, c) => a + c.score, 0)
   const percentualTotal = Math.round(((scoreTotal - 20) / 80) * 100)
 
-  // Maior pontuação → vídeo
-  const camadaDominante = [...camadas].sort((a, b) => b.score - a.score)[0]
-  const videoUrl = VIDEO_URLS[camadaDominante.id] ?? ''
+  const camadaDominante = [...camadas].sort((a, b) => a.score - b.score)[0]
+  const textoDiagnostico = TEXTOS_RESULTADO[camadaDominante.id] ?? ''
 
-  return { scoreTotal, percentualTotal, camadas, camadaDominante, videoUrl }
+  return { scoreTotal, percentualTotal, camadas, camadaDominante, textoDiagnostico }
 }
 
 export { NIVEL_LABEL }

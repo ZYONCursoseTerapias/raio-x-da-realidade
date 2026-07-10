@@ -74,12 +74,9 @@ export default function UserInfoPage() {
           {/* Form */}
           <form onSubmit={handleSubmit} className="px-8 py-8 space-y-5">
             {field('Seu nome completo', nome, setNome, 'Como posso te chamar?', 'text', 'nome')}
-            {field('Celular (com DDD)', telefone, setTelefone, '(11) 99999-9999', 'tel', 'telefone')}
+            {field('Celular (com código do país)', telefone, setTelefone, '+55 (11) 99999-9999', 'tel', 'telefone')}
             {field('Seu melhor e-mail', email, setEmail, 'voce@email.com', 'email', 'email')}
 
-            <p className="text-xs text-gray-400 leading-relaxed">
-              Seus dados são confidenciais e usados apenas para enviar seu resultado. Sem spam, jamais.
-            </p>
 
             <button type="submit" className="btn-primary w-full text-center">
               Iniciar meu diagnóstico →
