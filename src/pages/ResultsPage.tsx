@@ -61,9 +61,8 @@ async function salvarEEnviar(nome: string, email: string, telefone: string, resp
       dominant_score: String(r.scoreTotal),
       dominant_level: `${r.percentualTotal}%`,
       dominant_what: 'Em desequilíbrio',
-      dominant_text: 'Assista ao seu vídeo exclusivo acima.',
       dominant_facets: resumo,
-      other_traits: 'Agende sua sessão diagnóstica em terapeutasandracosta.com.br',
+      texto_diagnostico: r.textoDiagnostico,
     }, { publicKey: EMAILJS_KEY })
   } catch (err: any) {
     erroCliente = err?.text || err?.message || String(err)
