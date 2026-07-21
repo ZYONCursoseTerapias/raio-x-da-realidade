@@ -20,7 +20,7 @@ Sabe por que isso acontece? Porque nós não aprendemos a construir a própria i
 
 Esse padrão pode ter origem em muitos lugares diferentes. Pode ter vindo da sua história familiar, de um ambiente onde você aprendeu que suas opiniões não importavam tanto, que era melhor concordar, que se destacar demais era perigoso. Pode ter vindo de uma fase da vida em que você precisou se encaixar a qualquer custo e foi se moldando até perder o fio de quem era. Pode ter vindo de relacionamentos que foram te ensinando, aos poucos, que ser você mesma gerava conflito. Pode ter sido uma única experiência que deixou uma marca funda. Às vezes é a combinação de tudo isso junto.
 
-O que eu noto no meu trabalho é que, quando a pessoa entende de onde veio esse padrão, muita coisa começa a fazer sentido. Ela para de achar que o problema é ela. Entende que aprendeu a funcionar assim por alguma razão. E a partir daí, fica muito mais fácil mudar.
+O que eu noto no meu trabalho é que, quando você entende de onde veio esse padrão, muita coisa começa a fazer sentido. Você para de achar que o problema é você. Entende que aprendeu a funcionar assim por alguma razão. E a partir daí, fica muito mais fácil mudar.
 
 Você não precisa se reinventar. Precisa se reencontrar. E esse é um caminho que se faz olhando para a sua história com atenção e com um olhar diferente do que você está acostumada a ter.
 
@@ -38,7 +38,7 @@ Enquanto esse padrão não for trabalhado em profundidade, nenhuma planilha vai 
 
 Na Sessão de Desbloqueio e Direcionamento, vamos mapear de onde veio essa crença, entender o que está por trás desse padrão e trabalhar para que você construa uma relação diferente com a sua prosperidade.`,
 
-  relacionamentos: `Relacionamentos são um dos temas que mais aparecem no meu trabalho terapêutico. E um dos padrões mais comuns que eu vejo é esse: a pessoa dá muito mais do que recebe. Se adapta. Se anula. Espera. E vai ficando cada vez mais esgotada sem entender direito por quê.
+  relacionamentos: `Relacionamentos são um dos temas que mais aparecem no meu trabalho terapêutico. E um dos padrões mais comuns que eu vejo é esse: você dá muito mais do que recebe. Se adapta. Se anula. Espera. E vai ficando cada vez mais esgotada sem entender direito por quê.
 
 Quando essa área está em desequilíbrio, o que aparece com frequência é a sensação de que o esforço não é equilibrado. De que você está sempre disponível para o outro, mas quando precisa, o outro não está. De que você se comunica, mas não é ouvida de verdade. De que você cede, mas raramente sente que a sua necessidade também importa. E aí vem a dúvida: será que sou eu que estou exigindo demais? Será que o problema sou eu?
 
@@ -58,7 +58,7 @@ Sabe por que isso acontece? Porque em algum momento do caminho, você se afastou
 
 Pode ter sido uma escolha feita sob pressão, sem espaço para ouvir o que você mesma queria. Pode ter sido uma decisão que fez sentido naquele momento, mas foi te levando para longe de você com o tempo. Pode ter sido um ambiente de trabalho que foi te esvaziando aos poucos. Pode ter sido uma crença aprendida de que trabalho não precisa ter prazer, que o importante é a estabilidade. Pode ter sido uma promoção aceita por pressão, um caminho escolhido para agradar, uma área escolhida por segurança e não por vocação. Pode ter sido um período da vida em que você precisou sobreviver e foi adiando o que realmente queria. E foi adiando, adiando, até perder o fio.
 
-O que eu percebo é que, quando a pessoa entende por que se afastou, fica muito mais fácil encontrar um caminho de volta. Não necessariamente largando tudo. Às vezes é dentro do que você já faz. Às vezes é num ajuste de rota. O importante é que esse caminho seja seu, feito a partir de quem você é de verdade.
+O que eu percebo é que, quando você entende por que se afastou, fica muito mais fácil encontrar um caminho de volta. Não necessariamente largando tudo. Às vezes é dentro do que você já faz. Às vezes é num ajuste de rota. O importante é que esse caminho seja seu, feito a partir de quem você é de verdade.
 
 A Sessão de Desbloqueio e Direcionamento foi criada exatamente para esse momento. Vamos identificar onde aconteceu esse distanciamento, entender o que está por trás desse esvaziamento e traçar juntas um caminho profissional que faça sentido para você.`,
 }
