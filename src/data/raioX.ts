@@ -30,7 +30,7 @@ A Sessão de Desbloqueio e Direcionamento foi criada para isso. Vamos juntas ide
 
 E quando essa área está em desequilíbrio, o que aparece não é necessariamente a falta de dinheiro. O padrão mais comum é este: o dinheiro entra e some, sem que se entenda muito bem por quê. Ou se ganha bem, mas a sensação é de que nunca é suficiente. Ou aparece um desconforto estranho quando as coisas vão bem financeiramente, como se fosse uma questão de tempo até dar errado. Ou simplesmente não se consegue organizar, guardar, planejar, mesmo querendo muito.
 
-Esse padrão foi construído muito antes do primeiro salário. A relação com o dinheiro começa cedo, dentro de casa, nas conversas ouvidas crescendo, nas situações vividas, nas frases que ficaram gravadas mesmo sem perceber na época.
+Esse padrão foi construído muito antes do primeiro salário. A relação com o dinheiro começa cedo, dentro de casa, nas conversas que ouviu enquanto crescia, nas situações que viveu, nas frases que ficaram gravadas mesmo sem perceber na época.
 
 Pode ter sido uma fase de muita escassez que deixou a sensação de que dinheiro nunca é seguro. Pode ter sido uma crença aprendida de que falar de dinheiro é feio, que querer ter mais é ganância. Pode ter sido uma situação de perda que criou um medo inconsciente de acumular. Pode ter sido a forma como as pessoas ao redor se relacionavam com o dinheiro, absorvida como modelo sem questionar. Pode ter sido uma experiência específica que fez sentir que prosperidade não era para você.
 
@@ -46,21 +46,21 @@ Na maioria das vezes, não é isso. É que se aprendeu a se relacionar dessa for
 
 Pode ter vindo da forma como as relações aconteciam ao redor quando você crescia. Do que foi sendo ensinado, direta ou indiretamente, sobre o que significa amar. Pode ter vindo de relações anteriores que foram moldando o que passou a ser aceito como normal. Pode ter vindo de uma necessidade de ser aceita que fez aprender a ceder antes mesmo de ser pedido. Pode ter sido uma situação específica que ensinou que expressar o que sente gera conflito, e que era mais seguro deixar para lá. Às vezes é um acúmulo de muitas coisas pequenas que, juntas, foram criando esse padrão.
 
-O que eu quero que você entenda é que isso não é um defeito. Não é difícil de amar, não é exigente demais, não está errada em querer reciprocidade. Aprendeu a se relacionar de um jeito que não serve mais, e esse padrão pode ser compreendido e transformado.
+Quero que você saiba que isso não é um defeito seu. Querer ser ouvida é legítimo. Querer reciprocidade é legítimo. Querer equilíbrio é legítimo. O que aconteceu é que foi sendo aprendido a aceitar menos do que se merece, e esse padrão tem origem e tem solução.
 
-Na Sessão de Desbloqueio e Direcionamento, vamos olhar para a origem desse padrão, entender o que levou a funcionar assim e trabalhar para começar a se relacionar de um lugar diferente.`,
+Na Sessão de Desbloqueio e Direcionamento, vamos olhar para a origem desse padrão, entender o que criou essa forma de se relacionar e trabalhar para que seus vínculos sejam mais equilibrados e mais verdadeiros.`,
 
-  carreira: `Carreira e profissão é muito mais do que o que se faz para ganhar dinheiro. É a forma como você se expressa no mundo através do trabalho. É o sentido que encontra no que faz. É a conexão entre quem é e o que entrega.
+  carreira: `Carreira e profissão é muito mais do que o que se faz para gerar dinheiro. É a forma como você se expressa no mundo através do trabalho. É o sentido que encontra no que faz. É a conexão entre quem é e o que entrega.
 
 E quando essa área está em desequilíbrio, o que aparece com mais frequência não é a falta de competência. Provavelmente faz bem o que faz. O que aparece é a desconexão. A sensação de estar no automático. De fazer as coisas direito, mas sem motivação real. De acordar sem vontade de começar o dia. De chegar em casa esgotada de um jeito que vai além do cansaço físico.
 
 Sabe por que isso acontece? Porque em algum momento do caminho, você se afastou do que realmente te move.
 
-Pode ter sido uma escolha feita sob pressão, sem espaço para ouvir o que realmente queria. Pode ter sido uma decisão que fez sentido naquele momento, mas foi levando para longe de si com o tempo. Pode ter sido um ambiente de trabalho que foi esvaziando aos poucos. Pode ter sido uma crença aprendida de que trabalho não precisa ter prazer, que o importante é a estabilidade. Pode ter sido uma promoção aceita por pressão, um caminho escolhido para agradar, uma área escolhida por segurança e não por vocação. Pode ter sido um período da vida em que foi preciso sobreviver e foi se adiando o que realmente importava. E foi adiando, adiando, até perder o fio.
+Pode ter sido uma escolha feita sob pressão, sem espaço para ouvir o que realmente queria. Pode ter sido uma decisão que fez sentido naquele momento, mas que foi criando um distanciamento de si mesma ao longo do tempo. Pode ter sido um ambiente de trabalho que foi retirando a energia e a motivação. Pode ter sido uma crença aprendida de que trabalho não precisa ter prazer, que o importante é a estabilidade. Pode ter sido uma promoção aceita por pressão, um caminho escolhido para agradar, uma área escolhida por segurança e não por vocação. Pode ter sido um período da vida em que foi preciso sobreviver e o que realmente importava foi ficando para depois. E ficou. Por muito tempo.
 
 O que eu percebo é que, quando se entende por que houve esse afastamento, fica muito mais fácil encontrar um caminho de volta. Não necessariamente largando tudo. Às vezes é dentro do que já se faz. Às vezes é num ajuste de rota. O importante é que esse caminho seja construído a partir de quem você é de verdade.
 
-A Sessão de Desbloqueio e Direcionamento foi criada exatamente para esse momento. Vamos identificar onde aconteceu esse distanciamento, entender o que está por trás desse esvaziamento e traçar juntas um caminho profissional que faça sentido para você.`,
+A Sessão de Desbloqueio e Direcionamento foi criada exatamente para esse momento. Vamos identificar onde aconteceu esse distanciamento, compreender o que o provocou e traçar juntas um caminho profissional que faça sentido para você.`,
 }
 
 export const ESCALA = [
