@@ -16,7 +16,7 @@ export const TEXTOS_RESULTADO: Record<string, string> = {
 
 E quando essa área está em desequilíbrio, o que aparece com mais frequência é a dificuldade de saber o que você quer para si mesma. A dificuldade de colocar limites sem se sentir culpada depois. A sensação de que você precisa se adaptar ao que os outros esperam para ser aceita, valorizada, amada. Muitas vezes você nem percebe que está fazendo isso. Vai se moldando naturalmente, porque aprendeu que era assim que as coisas funcionavam.
 
-Sabe por que isso acontece? Porque a gente não aprende a construir a própria identidade. Aprende a ser o que a família espera, o que a sociedade pede, o que o relacionamento exige. E num determinado momento da vida, a pessoa para e se pergunta: mas quem sou eu, afinal?
+Sabe por que isso acontece? Porque nós não aprendemos a construir a própria identidade. Aprendemos a ser o que a família espera, o que a sociedade pede, o que o relacionamento exige. E num determinado momento da vida, você para e se pergunta: mas quem sou eu, afinal?
 
 Esse padrão pode ter origem em muitos lugares diferentes. Pode ter vindo da sua história familiar, de um ambiente onde você aprendeu que suas opiniões não importavam tanto, que era melhor concordar, que se destacar demais era perigoso. Pode ter vindo de uma fase da vida em que você precisou se encaixar a qualquer custo e foi se moldando até perder o fio de quem era. Pode ter vindo de relacionamentos que foram te ensinando, aos poucos, que ser você mesma gerava conflito. Pode ter sido uma única experiência que deixou uma marca funda. Às vezes é a combinação de tudo isso junto.
 
