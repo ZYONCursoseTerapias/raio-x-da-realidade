@@ -12,70 +12,55 @@ export interface Camada {
 }
 
 export const TEXTOS_RESULTADO: Record<string, string> = {
-  identidade: `Você passa o dia inteiro sendo quem os outros esperam. No trabalho, a profissional competente. Em casa, a cuidadora atenta. Com as amigas, a que anima o ambiente. Com o parceiro, a que compreende tudo. No fim do dia, você deita e percebe que passou 16 horas existindo para os outros. Sobrou 0 minuto para você.
+  identidade: `Identidade é quem você é. Não o que você faz, não o papel que ocupa, não o título que carrega. É quem você é de verdade, por dentro, quando tira tudo isso.
 
-Esse cansaço que você sente não vem do corpo. Vem de uma vida inteira de escolhas feitas para agradar. A sua aparência, o seu jeito, as suas opiniões. Você ajustou tudo para caber no que esperavam de você.
+E quando essa área está em desequilíbrio, o que aparece com mais frequência é a dificuldade de saber o que você quer para si mesma. A dificuldade de colocar limites sem se sentir culpada depois. A sensação de que você precisa se adaptar ao que os outros esperam para ser aceita, valorizada, amada. Muitas vezes você nem percebe que está fazendo isso. Vai se moldando naturalmente, porque aprendeu que era assim que as coisas funcionavam.
 
-O que você chama de insegurança é o eco de uma pergunta que você nunca respondeu: quem sou eu quando ninguém está olhando?
+Sabe por que isso acontece? Porque a gente não aprende a construir a própria identidade. Aprende a ser o que a família espera, o que a sociedade pede, o que o relacionamento exige. E num determinado momento da vida, a pessoa para e se pergunta: mas quem sou eu, afinal?
 
-Você cresceu ouvindo o que deveria fazer. O que deveria querer. Como deveria se comportar. A sua voz nunca foi a mais importante. A dos outros sempre falou mais alto. E você aprendeu a se calar antes mesmo de aprender a falar.
+Esse padrão pode ter origem em muitos lugares diferentes. Pode ter vindo da sua história familiar, de um ambiente onde você aprendeu que suas opiniões não importavam tanto, que era melhor concordar, que se destacar demais era perigoso. Pode ter vindo de uma fase da vida em que você precisou se encaixar a qualquer custo e foi se moldando até perder o fio de quem era. Pode ter vindo de relacionamentos que foram te ensinando, aos poucos, que ser você mesma gerava conflito. Pode ter sido uma única experiência que deixou uma marca funda. Às vezes é a combinação de tudo isso junto.
 
-Existe uma história por trás disso. Sua avó, sua mãe, as mulheres da sua família. Elas também se anularam. Elas também colocaram os outros na frente. Elas também não tiveram permissão para ocupar espaço. Você herdou essa postura. Ela passou de geração em geração como uma herança invisível.
+O que eu noto no meu trabalho é que, quando a pessoa entende de onde veio esse padrão, muita coisa começa a fazer sentido. Ela para de achar que o problema é ela. Entende que aprendeu a funcionar assim por alguma razão. E a partir daí, fica muito mais fácil mudar.
 
-Ou pode ter sido um momento específico. Uma crítica na infância que você nunca esqueceu. Uma comparação com uma irmã ou prima. Um pai que sempre preferiu o filho. Uma mãe que dizia que você era difícil. Algo aconteceu e você entendeu que ser você mesma era um problema. Você passou a se esconder.
+Você não precisa se reinventar. Precisa se reencontrar. E esse é um caminho que se faz olhando para a sua história com atenção e com um olhar diferente do que você está acostumada a ter.
 
-Muitas vezes é a combinação das duas coisas. A herança familiar somada a um evento que consolidou a crença. Você cresceu e carregou esse peso. Ele se manifesta como dúvida, como medo de se expor, como uma sensação constante de que você não é o suficiente.
+A Sessão de Desbloqueio e Direcionamento foi criada para isso. Vamos juntas identificar de onde veio esse padrão, entender o que te fez aprender a colocar os outros antes de você e traçar um caminho para que você comece a ocupar o seu próprio lugar.`,
 
-Nenhuma mudança externa resolve isso. Trocar de cabelo, de roupa, de casa. Nada disso alcança a raiz. O que você precisa é entender de onde veio esse silêncio sobre você mesma. É desfazer a crença de que ser quem você é pode ser um problema. É devolver a você a permissão que nunca te deram.
+  financas: `A área de Finanças não é só sobre dinheiro. É sobre o que você acredita que merece. É sobre a relação que você construiu, ao longo da vida, com a ideia de abundância, de segurança, de prosperidade.
 
-O teste que você acabou de responder já apontou essa área como prioritária. A Sessão de Desbloqueio e Direcionamento foi criada para isso. Vamos juntas rastrear a origem desse distanciamento. Você vai olhar para sua história com um novo ângulo e identificar o ponto exato onde você se perdeu. Depois disso, o caminho de volta para você mesma fica nítido.`,
+E quando essa área está em desequilíbrio, o que aparece não é necessariamente a falta de dinheiro. O padrão mais comum é esse: o dinheiro entra e some, e você não entende muito bem por quê. Ou você ganha bem, mas vive com a sensação de que nunca é suficiente. Ou sente um desconforto estranho quando as coisas vão bem financeiramente, como se fosse uma questão de tempo até dar errado. Ou simplesmente não consegue organizar, guardar, planejar, mesmo querendo muito.
 
-  financas: `Você trabalhou o mês inteiro. Recebeu seu salário. Pagou as contas. Duas semanas depois, o saldo da conta já está no vermelho. Você se pergunta onde foi parar o dinheiro. Se pergunta o que há de errado com você.
+Esse padrão foi construído muito antes do seu primeiro salário. A relação com o dinheiro começa cedo, dentro de casa, nas conversas que você ouviu crescendo, nas situações que você viveu, nas frases que ficaram gravadas mesmo sem você ter percebido na época.
 
-Não é sobre ganhar pouco. Você pode dobrar sua renda que o resultado vai ser o mesmo. O dinheiro entra e escorre. E você fica com aquela sensação de que nunca é suficiente.
+Pode ter sido uma fase de muita escassez que deixou a sensação de que dinheiro nunca é seguro. Pode ter sido uma crença aprendida de que falar de dinheiro é feio, que querer ter mais é ganância. Pode ter sido uma situação de perda que criou um medo inconsciente de acumular. Pode ter sido a forma como as pessoas ao seu redor se relacionavam com o dinheiro, e você foi absorvendo esse modelo sem questionar. Pode ter sido uma experiência específica que te fez sentir que prosperidade não era para você.
 
-A sua relação com dinheiro foi construída muito antes de você ganhar o primeiro salário. Sua avó não podia assinar um cheque sem autorização. Sua mãe foi criada para acreditar que homem entende de dinheiro e mulher cuida da casa. Você cresceu num mundo diferente, mas a herança emocional continua viva. Inconscientemente, você ainda age como se finanças não fossem assunto seu.
+Enquanto esse padrão não for trabalhado em profundidade, nenhuma planilha vai resolver de vez. Não porque organização financeira não funciona, mas porque o problema não está na conta. Está no que você acredita sobre si mesma e sobre o que merece ter.
 
-Ou talvez tenha sido uma experiência de infância. Ver seus pais discutindo por causa de dinheiro. Ouvir que ter dinheiro é sujo, que rico é ganancioso. Ser a filha que sempre ouvia "isso não é para a gente". Uma frase dita uma única vez criou uma crença que você carrega até hoje.
+Na Sessão de Desbloqueio e Direcionamento, vamos mapear de onde veio essa crença, entender o que está por trás desse padrão e trabalhar para que você construa uma relação diferente com a sua prosperidade.`,
 
-Pode ser a combinação das duas. A herança familiar somada a um evento que consolidou essa desconexão. Você se sente desconfortável quando o dinheiro sobra. Parece que você não merece. Parece que vai dar azar. Parece que algo vai acontecer e você vai perder. Então, você gasta antes que o dinheiro vá embora sozinho. Só que tudo isso de forma inconsciente, muitas vezes.
+  relacionamentos: `Relacionamentos são um dos temas que mais aparecem no meu trabalho terapêutico. E um dos padrões mais comuns que eu vejo é esse: a pessoa dá muito mais do que recebe. Se adapta. Se anula. Espera. E vai ficando cada vez mais esgotada sem entender direito por quê.
 
-Enquanto essa crença estiver ativa, nenhuma planilha vai resolver. Nenhum curso de educação financeira vai mudar o fato de que você, no fundo, não se sente merecedora de reter. O problema não está na conta. Está no seu inconsciente. Nos traumas e nas crenças que te fazem repetir esse padrão.
+Quando essa área está em desequilíbrio, o que aparece com frequência é a sensação de que o esforço não é equilibrado. De que você está sempre disponível para o outro, mas quando precisa, o outro não está. De que você se comunica, mas não é ouvida de verdade. De que você cede, mas raramente sente que a sua necessidade também importa. E aí vem a dúvida: será que sou eu que estou exigindo demais? Será que o problema sou eu?
 
-O que você precisa é rastrear a origem dessa crença. Entender onde e quando você aprendeu que dinheiro não era para você. Desbloquear essa memória e reprogramar a sua relação com a abundância. Você já ganha. Agora precisa aprender a manter sem culpa.
+Na maioria das vezes, não é você que está exigindo demais. É que você aprendeu a se relacionar dessa forma. E esse aprendizado tem uma origem.
 
-O teste apontou essa área. A Sessão de Desbloqueio e Direcionamento vai te ajudar a identificar a raiz do seu padrão financeiro. Vamos mapear sua história com dinheiro, reconhecer as crenças herdadas e criar uma nova relação que te permita prosperar sem culpa.`,
-  relacionamentos: `Você está num relacionamento e sente que falta alguma coisa. Você oferece atenção e recebe silêncio. Você planeja o futuro e ele adia. Você fala sobre seus sentimentos e ele muda de assunto. Você fica ali, esperando, se perguntando o que tem de errado com você.
+Pode ter vindo da forma como você viu as relações acontecendo ao seu redor quando crescia. Do que foi sendo ensinado, direta ou indiretamente, sobre o que significa amar. Pode ter vindo de relações anteriores que foram moldando o que você passou a aceitar como normal. Pode ter vindo de uma necessidade de ser aceita que te fez aprender a ceder antes mesmo de ser pedido. Pode ter sido uma situação específica que te ensinou que expressar o que sente gera conflito, e foi mais seguro deixar para lá. Às vezes é um acúmulo de muitas coisas pequenas que, juntas, foram criando um padrão.
 
-O que você aprendeu sobre amor veio da sua família. Ver sua mãe se anulando pelo pai. Ouvir que mulher de verdade segura o relacionamento. Crescer acreditando que o amor exige sacrifício. Que você precisa se doar, compreender, relevar. Que a paciência é a maior virtude feminina.
+O que eu quero que você entenda é que isso não é um defeito seu. Você não é difícil de amar, não é exigente demais, não está errada em querer reciprocidade. Você aprendeu a se relacionar de um jeito que não te serve mais, e esse padrão pode ser compreendido e transformado.
 
-Ou veio de uma experiência que te marcou. Um pai ausente que te fez buscar validação em qualquer homem que aparecesse. Um primeiro namorado que te fez implorar por atenção. Uma traição que te convenceu de que você nunca seria suficiente. A partir daí você passou a aceitar o que vinha.
+Na Sessão de Desbloqueio e Direcionamento, vamos olhar para a origem desse padrão nos seus relacionamentos, entender o que te fez aprender a funcionar assim e trabalhar para que você comece a se relacionar de um lugar diferente.`,
 
-Muitas vezes as duas coisas se combinam. A herança familiar e o trauma infantil se encontraram. Criaram um ciclo que você repete há anos: se doar, não receber, se esforçar mais, se anular mais.
+  carreira: `Carreira e profissão é muito mais do que o que você faz para ganhar dinheiro. É a forma como você se expressa no mundo através do seu trabalho. É o sentido que você encontra no que faz. É a conexão entre quem você é e o que você entrega.
 
-O padrão é sempre o mesmo. Você diminui suas necessidades para caber no espaço que ele oferece. Recalcula o que é aceitável. Rebaixa suas expectativas. E chama isso de amor. Mas não é. É um mecanismo de sobrevivência. É você tentando garantir que ele não vá embora, mesmo que ele já tenha ido em todas as formas que importam. Não está presente, não está atento, não está inteiro, não está disponível.
+E quando essa área está em desequilíbrio, o que aparece com mais frequência não é a falta de competência. Você provavelmente faz bem o que faz. O que aparece é a desconexão. A sensação de estar no automático. De fazer as coisas direito, mas sem motivação real. De acordar sem vontade de começar o dia. De chegar em casa esgotada de um jeito que vai além do cansaço físico.
 
-O resultado é exaustão. Você está cansada de dar e não receber. Cansada de esperar e não ser vista, reconhecida. Cansada de relações que pedem demais e devolvem pouco. Esse cansaço é legítimo. É o seu corpo dizendo que você já repetiu esse roteiro muitas vezes.
+Sabe por que isso acontece? Porque em algum momento do caminho, você se afastou do que realmente te move.
 
-O amor verdadeiro não exige que você se anule. Uma relação saudável te amplia. Te inclui. Te escuta. Te deseja. Você não sente que precisa implorar por afeto porque ele está ali. Naturalmente. Se você não está sentindo isso, a relação está te desgastando. Não importa o quanto você goste dele.
+Pode ter sido uma escolha feita sob pressão, sem espaço para ouvir o que você mesma queria. Pode ter sido uma decisão que fez sentido naquele momento, mas foi te levando para longe de você com o tempo. Pode ter sido um ambiente de trabalho que foi te esvaziando aos poucos. Pode ter sido uma crença aprendida de que trabalho não precisa ter prazer, que o importante é a estabilidade. Pode ter sido uma promoção aceita por pressão, um caminho escolhido para agradar, uma área escolhida por segurança e não por vocação. Pode ter sido um período da vida em que você precisou sobreviver e foi adiando o que realmente queria. E foi adiando, adiando, até perder o fio.
 
-O teste já mostrou que essa é a sua área de atenção. A Sessão de Desbloqueio e Direcionamento vai te ajudar a mapear a origem desse padrão. Vamos juntas identificar onde você aprendeu que amar é se perder. Vamos desbloquear o que te mantém presa a relações que estão te ferindo.`,
+O que eu percebo é que, quando a pessoa entende por que se afastou, fica muito mais fácil encontrar um caminho de volta. Não necessariamente largando tudo. Às vezes é dentro do que você já faz. Às vezes é num ajuste de rota. O importante é que esse caminho seja seu, feito a partir de quem você é de verdade.
 
-  carreira: `Você é excelente no que faz. Todo mundo reconhece. Seu chefe aprova. Seus clientes elogiam. Você entrega resultados. E ainda assim, todo dia, você acorda sem vontade de trabalhar. Passa as horas olhando o relógio. Chega em casa esgotada. Esgotada de fazer algo que não te preenche.
-
-Essa desconexão com sua carreira não apareceu ontem. Você construiu um caminho sólido, mas sobre uma base que não é sua. Você escolheu a profissão que parecia certa. A que dava dinheiro. A que trazia status. A que seus pais aprovavam. Só que ao longo do caminho você perdeu de vista o que te movia.
-
-A origem desse desalinhamento pode estar na sua família. Você cresceu ouvindo que trabalho não é para ser prazeroso. Que você deve se considerar sortuda por ter um emprego. Que profissão é para garantir sustento, não para realizar propósito. Você assimilou essa visão e escolheu segurança no lugar de paixão.
-
-Ou pode ter vindo de um momento específico. Uma escolha de faculdade feita para agradar seus pais. Uma promoção que você aceitou por status, não por vocação. Um período em que você precisava provar que era capaz e decidiu que sentimentos não importavam. Você se adaptou, entregou, performou. E se esqueceu de si mesma.
-
-Normalmente é a soma das duas coisas. A herança familiar e o evento específico se encontraram. O resultado é uma mulher competente que opera no automático. Que faz as tarefas com maestria, mas com a alma desligada. Nenhuma conquista preenche o vazio. Nenhum reconhecimento é suficiente. Porque o que você faz não tem mais conexão com quem você é.
-
-Isso tem um preço. Você perde a criatividade, perde energia, perde o brilho. O trabalho vira uma obrigação que você suporta. Não é vida. É sobrevivência. E você sabe disso. Por isso o cansaço é tão profundo. É o cansaço de uma alma que está em silêncio há anos.
-
-O que você precisa não é largar tudo e recomeçar. É ressignificar. Entender o que te motivou em algum momento. Descobrir o que te move hoje. E alinhar sua vida profissional com isso. Ou dentro do que você já faz. Ou num novo caminho.
-
-O teste já apontou sua carreira como área em desequilíbrio. A Sessão de Desbloqueio e Direcionamento foi criada para esse momento. Vamos juntas desvendar o que te desconectou. Vamos resgatar a centelha que você perdeu e traçar uma rota profissional que faça sentido para você.`,
+A Sessão de Desbloqueio e Direcionamento foi criada exatamente para esse momento. Vamos identificar onde aconteceu esse distanciamento, entender o que está por trás desse esvaziamento e traçar juntas um caminho profissional que faça sentido para você.`,
 }
 
 export const ESCALA = [
