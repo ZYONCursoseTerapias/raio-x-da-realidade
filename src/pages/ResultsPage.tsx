@@ -198,12 +198,12 @@ export default function ResultsPage() {
             Na sessão diagnóstica ao vivo, você sai com nitidez sobre qual caminho seguir e um plano prático para realizar essa transformação.
           </p>
           <a
-            href="https://wa.me/5511957947776?text=Ol%C3%A1%20Sandr%C3%A4!%20Fiz%20o%20Raio%20X%20da%20Realidade%20e%20gostaria%20de%20agendar%20minha%20sess%C3%A3o%20diagn%C3%B3stica."
+            href="https://wa.me/5511957947776?text=Ol%C3%A1%20Sandr%C3%A4!%20Fiz%20o%20Raio%20X%20da%20Realidade%20e%20quero%20agendar%20minha%20Sess%C3%A3o%20de%20Desbloqueio%20e%20Direcionamento."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white text-brand-dark font-bold px-8 py-3 rounded-full hover:opacity-90 transition-opacity"
           >
-            Quero agendar minha Sessão Diagnóstica
+            Quero agendar minha Sessão de Desbloqueio e Direcionamento
           </a>
           <p className="text-xs mt-4" style={{ color: 'rgba(155,225,152,0.8)' }}>
             Seu resultado também foi enviado para o seu e-mail
