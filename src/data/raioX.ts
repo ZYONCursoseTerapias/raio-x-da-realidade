@@ -20,7 +20,7 @@ Sabe por que isso acontece? Porque nós não aprendemos a construir a própria i
 
 Esse padrão pode ter origem em muitos lugares diferentes. Pode ter vindo da sua história familiar, de um ambiente onde você aprendeu que suas opiniões não importavam tanto, que era melhor concordar, que se destacar demais era perigoso. Pode ter vindo de uma fase da vida em que você precisou se encaixar a qualquer custo e foi se moldando até perder o fio de quem era. Pode ter vindo de relacionamentos que foram te ensinando, aos poucos, que ser você mesma gerava conflito. Pode ter sido uma única experiência que deixou uma marca funda. Às vezes é a combinação de tudo isso junto.
 
-O que eu noto no meu trabalho é que, quando você entende de onde veio esse padrão, muita coisa começa a fazer sentido. Você para de achar que o problema é você. Entende que aprendeu a funcionar assim por alguma razão. E a partir daí, fica muito mais fácil mudar.
+O que eu noto no meu trabalho é que compreender a origem desse padrão muda tudo. O problema para de parecer uma falha sua. Fica claro que esse jeito de funcionar foi aprendido por alguma razão. E a partir daí, mudar se torna muito mais fácil.
 
 Você não precisa se reinventar. Precisa se reencontrar. E esse é um caminho que se faz olhando para a sua história com atenção e com um olhar diferente do que você está acostumada a ter.
 
