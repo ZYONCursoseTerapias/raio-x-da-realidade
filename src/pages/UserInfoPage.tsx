@@ -21,7 +21,7 @@ export default function UserInfoPage() {
   function handleSubmit(e: FormEvent) {
     e.preventDefault()
     if (!validate()) return
-    sessionStorage.setItem('raiox_user', JSON.stringify({ nome: nome.trim(), telefone: '+55 ' + telefone.trim(), email: email.trim() }))
+    sessionStorage.setItem('raiox_user', JSON.stringify({ nome: nome.trim(), telefone: telefone.trim(), email: email.trim() }))
     navigate('/teste')
   }
 
@@ -74,22 +74,7 @@ export default function UserInfoPage() {
           {/* Form */}
           <form onSubmit={handleSubmit} className="px-8 py-8 space-y-5">
             {field('Seu nome completo', nome, setNome, 'Como posso te chamar?', 'text', 'nome')}
-            <div>
-              <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">
-                Celular
-              </label>
-              <div className="flex border border-gray-200 rounded-xl overflow-hidden focus-within:border-brand-medium transition-colors">
-                <span className="px-4 py-3 text-sm text-gray-500 bg-gray-50 border-r border-gray-200 select-none">+55</span>
-                <input
-                  type="tel"
-                  value={telefone}
-                  onChange={(e) => setTelefone(e.target.value)}
-                  placeholder="(11) 99999-9999"
-                  className="flex-1 px-4 py-3 text-sm text-gray-700 focus:outline-none"
-                />
-              </div>
-              {errors.telefone && <p className="text-red-400 text-xs mt-1">{errors.telefone}</p>}
-            </div>
+            {field('Celular (com código do país)', telefone, setTelefone, '+55 (11) 99999-9999', 'tel', 'telefone')}
             {field('Seu melhor e-mail', email, setEmail, 'seuemail@email.com', 'email', 'email')}
 
 
