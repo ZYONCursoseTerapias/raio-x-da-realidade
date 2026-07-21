@@ -169,12 +169,14 @@ export default function ResultsPage() {
                       )}
                     </div>
                     <div className="flex items-center gap-2">
-                      <span
-                        className="text-xs font-semibold px-2 py-0.5 rounded-full"
-                        style={{ background: BG[c.nivel], color: COR[c.nivel] }}
-                      >
-                        {NIVEL_LABEL[c.nivel]}
-                      </span>
+                      {c.id !== resultado.camadaDominante.id && (
+                        <span
+                          className="text-xs font-semibold px-2 py-0.5 rounded-full"
+                          style={{ background: BG[c.nivel], color: COR[c.nivel] }}
+                        >
+                          {NIVEL_LABEL[c.nivel]}
+                        </span>
+                      )}
                       <span className="text-xs text-gray-400">{c.score}/25</span>
                     </div>
                   </div>
