@@ -164,12 +164,11 @@ export default function ResultsPage() {
                   <div className="flex items-center justify-between mb-1">
                     <div className="flex items-center gap-2">
                       <span className="text-sm font-semibold text-gray-700">{c.nome}</span>
-                      {c.id === resultado.camadaDominante.id && (
-                        <span className="text-xs bg-red-500 text-white px-2 py-0.5 rounded-full">Em desequilíbrio</span>
-                      )}
                     </div>
                     <div className="flex items-center gap-2">
-                      {c.id !== resultado.camadaDominante.id && (
+                      {c.id === resultado.camadaDominante.id ? (
+                        <span className="text-xs bg-red-500 text-white px-2 py-0.5 rounded-full">Em desequilíbrio</span>
+                      ) : (
                         <span
                           className="text-xs font-semibold px-2 py-0.5 rounded-full"
                           style={{ background: BG[c.nivel], color: COR[c.nivel] }}
