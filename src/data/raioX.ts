@@ -22,9 +22,9 @@ Esse padrão tem origem em muitos lugares. Pode ter vindo da história familiar,
 
 Minha experiência profissional mostra que compreender a origem desse padrão muda tudo. O problema para de parecer uma falha pessoal. Fica claro que esse jeito de funcionar foi aprendido por alguma razão. E a partir daí, mudar se torna muito mais fácil.
 
-Não é preciso se reinventar. É preciso se reencontrar. E esse caminho se faz olhando para a própria história com atenção e com um ângulo diferente do que se está acostumada.
+Não é preciso se reinventar. É preciso se reencontrar. E esse caminho se faz olhando para a própria história com atenção e por um ângulo diferente do que se está acostumada.
 
-A Sessão de Desbloqueio e Direcionamento foi criada para isso. Vamos juntas identificar de onde veio esse padrão, entender o que levou a colocar sempre os outros na frente e traçar um caminho para começar a ocupar o próprio lugar.`,
+A Sessão de Desbloqueio e Direcionamento foi criada para isso. Vamos identificar de onde veio esse padrão, de sempre colocar os outros na frente e traçar um caminho para começar a se priorizar.`,
 
   financas: `A área de Finanças não é só sobre dinheiro. É sobre o que se acredita merecer. É sobre a relação construída, ao longo da vida, com a ideia de abundância, de segurança, de prosperidade.
 
@@ -32,7 +32,7 @@ E quando essa área está em desequilíbrio, o que aparece não é necessariamen
 
 Esse padrão foi construído muito antes do primeiro salário. A relação com o dinheiro começa cedo, dentro de casa, nas conversas que ouviu enquanto crescia, nas situações que viveu, nas frases que ficaram gravadas mesmo sem perceber na época.
 
-Pode ter sido uma fase de muita escassez que deixou a sensação de que dinheiro nunca é seguro. Pode ter sido uma crença aprendida de que falar de dinheiro é feio, que querer ter mais é ganância. Pode ter sido uma situação de perda que criou um medo inconsciente de acumular. Pode ter sido a forma como as pessoas ao redor se relacionavam com o dinheiro, absorvida como modelo sem questionar. Pode ter sido uma experiência específica que fez sentir que prosperidade não era para você.
+Pode ter sido uma fase de muita escassez que deixou a sensação de que dinheiro nunca é suficiente. Pode ter sido uma crença aprendida de que falar de dinheiro é feio, que querer ter mais é ganância. Pode ter sido uma situação de perda que criou um medo inconsciente de acumular. Pode ter sido a forma como as pessoas ao redor se relacionavam com o dinheiro, absorvida como modelo sem questionar. Pode ter sido uma experiência específica que fez sentir que prosperidade não era para você.
 
 Enquanto esse padrão não for trabalhado em profundidade, nenhuma planilha vai resolver. Não porque organização financeira não funciona, mas porque o problema não está na conta. Está no que se acredita sobre si mesma e sobre o que se merece ter.
 
