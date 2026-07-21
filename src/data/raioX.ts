@@ -18,9 +18,9 @@ E quando essa área está em desequilíbrio, o que aparece com mais frequência 
 
 Sabe por que isso acontece? Porque nós não aprendemos a construir a própria identidade. Aprendemos a ser o que a família espera, o que a sociedade pede, o que o relacionamento exige. E num determinado momento da vida, vem a pergunta: mas quem sou eu, afinal?
 
-Esse padrão tem origem em muitos lugares. Pode ter vindo da história familiar, de um ambiente onde as suas opiniões não importavam tanto, onde era melhor concordar, onde se destacar demais era perigoso. Pode ter sido uma fase em que foi preciso se encaixar a qualquer custo, e o fio de quem se é foi se perdendo. Pode ter sido um relacionamento que foi ensinando, aos poucos, que ser autêntica gerava conflito. Pode ter sido uma única experiência que deixou uma marca funda. Às vezes é a combinação de tudo isso.
+Esse padrão tem origem em muitos lugares. Pode ter vindo da história familiar, de um ambiente onde as suas opiniões não importavam tanto, onde era melhor concordar, onde se destacar demais era perigoso. Pode ter sido uma fase em que foi preciso se encaixar a qualquer custo. Pode ter sido um relacionamento que foi ensinando, aos poucos, que ser autêntica gerava conflito. Pode ter sido uma única experiência que deixou uma marca funda. Às vezes é a combinação de tudo isso.
 
-O que eu noto no meu trabalho é que compreender a origem desse padrão muda tudo. O problema para de parecer uma falha pessoal. Fica claro que esse jeito de funcionar foi aprendido por alguma razão. E a partir daí, mudar se torna muito mais fácil.
+Minha experiência profissional mostra que compreender a origem desse padrão muda tudo. O problema para de parecer uma falha pessoal. Fica claro que esse jeito de funcionar foi aprendido por alguma razão. E a partir daí, mudar se torna muito mais fácil.
 
 Não é preciso se reinventar. É preciso se reencontrar. E esse caminho se faz olhando para a própria história com atenção e com um ângulo diferente do que se está acostumada.
 
@@ -38,7 +38,7 @@ Enquanto esse padrão não for trabalhado em profundidade, nenhuma planilha vai 
 
 Na Sessão de Desbloqueio e Direcionamento, vamos mapear de onde veio essa crença, entender o que está por trás desse padrão e trabalhar para que sua relação com a prosperidade seja diferente.`,
 
-  relacionamentos: `Relacionamentos são um dos temas que mais aparecem no meu trabalho terapêutico. E um dos padrões mais comuns que eu vejo é esse: você dá muito mais do que recebe. Se adapta. Se anula. Espera. E vai ficando cada vez mais esgotada sem entender direito por quê.
+  relacionamentos: `Um dos padrões mais comuns que eu mais vejo dentro dos relacionamentos é esse: você dá muito mais do que recebe. Se adapta. Se anula. Espera. E vai ficando cada vez mais esgotada sem entender direito por quê.
 
 Quando essa área está em desequilíbrio, o que aparece com frequência é a sensação de que o esforço não é equilibrado. De estar sempre disponível para o outro, mas quando precisa, o outro não está. De se comunicar, mas não ser ouvida de verdade. De ceder, mas raramente sentir que as suas necessidades também importam. E aí vem a dúvida: será que estou exigindo demais? Será que o problema sou eu?
 
@@ -46,13 +46,13 @@ Na maioria das vezes, não é isso. É que se aprendeu a se relacionar dessa for
 
 Pode ter vindo da forma como as relações aconteciam ao redor quando você crescia. Do que foi sendo ensinado, direta ou indiretamente, sobre o que significa amar. Pode ter vindo de relações anteriores que foram moldando o que passou a ser aceito como normal. Pode ter vindo de uma necessidade de ser aceita que fez aprender a ceder antes mesmo de ser pedido. Pode ter sido uma situação específica que ensinou que expressar o que sente gera conflito, e que era mais seguro deixar para lá. Às vezes é um acúmulo de muitas coisas pequenas que, juntas, foram criando esse padrão.
 
-Quero que você saiba que isso não é um defeito seu. Querer ser ouvida é legítimo. Querer reciprocidade é legítimo. Querer equilíbrio é legítimo. O que aconteceu é que foi sendo aprendido a aceitar menos do que se merece, e esse padrão tem origem e tem solução.
+Quero que você saiba que isso não é um defeito seu. Querer ser ouvida é legítimo. Querer reciprocidade é legítimo. Querer equilíbrio é legítimo. Você aprendeu a aceitar menos do que merece, e esse padrão tem origem e tem solução. É possível mudar essa realidade.
 
-Na Sessão de Desbloqueio e Direcionamento, vamos olhar para a origem desse padrão, entender o que criou essa forma de se relacionar e trabalhar para que seus vínculos sejam mais equilibrados e mais verdadeiros.`,
+Na Sessão de Desbloqueio e Direcionamento, vamos entender o que criou essa forma de se relacionar e trabalhar para que seus vínculos sejam mais equilibrados e mais verdadeiros.`,
 
-  carreira: `Carreira e profissão é muito mais do que o que se faz para gerar dinheiro. É a forma como você se expressa no mundo através do trabalho. É o sentido que encontra no que faz. É a conexão entre quem é e o que entrega.
+  carreira: `Carreira e profissão é muito mais do que o que se faz para gerar dinheiro. É a forma como você se expressa no mundo através do trabalho. É ter um propósito, uma missão. É ter um sentido muito mais profundo naquilo que se faz.
 
-E quando essa área está em desequilíbrio, o que aparece com mais frequência não é a falta de competência. Provavelmente faz bem o que faz. O que aparece é a desconexão. A sensação de estar no automático. De fazer as coisas direito, mas sem motivação real. De acordar sem vontade de começar o dia. De chegar em casa esgotada de um jeito que vai além do cansaço físico.
+E quando essa área está em desequilíbrio, o que aparece com mais frequência não é a falta de competência. Provavelmente você faz bem o que faz. O que aparece é a desconexão. A sensação de estar no automático. De fazer as coisas direito, mas sem motivação real. De acordar sem vontade de começar o dia. De chegar em casa esgotada de um jeito que vai além do cansaço físico.
 
 Sabe por que isso acontece? Porque em algum momento do caminho, você se afastou do que realmente te move.
 
@@ -60,7 +60,7 @@ Pode ter sido uma escolha feita sob pressão, sem espaço para ouvir o que realm
 
 O que eu percebo é que, quando se entende por que houve esse afastamento, fica muito mais fácil encontrar um caminho de volta. Não necessariamente largando tudo. Às vezes é dentro do que já se faz. Às vezes é num ajuste de rota. O importante é que esse caminho seja construído a partir de quem você é de verdade.
 
-A Sessão de Desbloqueio e Direcionamento foi criada exatamente para esse momento. Vamos identificar onde aconteceu esse distanciamento, compreender o que o provocou e traçar juntas um caminho profissional que faça sentido para você.`,
+A Sessão de Desbloqueio e Direcionamento foi criada exatamente para esse momento. Vamos identificar o que causou a sua desconexão e traçar juntas um caminho profissional que faça sentido para você.`,
 }
 
 export const ESCALA = [
