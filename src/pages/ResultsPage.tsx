@@ -145,7 +145,7 @@ export default function ResultsPage() {
           <div className="mt-8 rounded-2xl p-6 text-center" style={{ background: '#1E6F30' }}>
             <h3 className="text-xl font-bold text-white mb-3">Quer um direcionamento personalizado?</h3>
             <p className="text-brand-light text-sm leading-relaxed mb-5 max-w-sm mx-auto">
-              Na sessão diagnóstica ao vivo, você sai com nitidez sobre qual caminho seguir e um plano prático para realizar essa transformação.
+              Na Sessão de Desbloqueio e Direcionamento ao vivo, você sai com nitidez sobre qual caminho seguir e um plano prático para realizar essa transformação.
             </p>
             <a
               href="https://wa.me/5511957947776?text=Ol%C3%A1%20Sandr%C3%A4!%20Fiz%20o%20Raio%20X%20da%20Realidade%20e%20quero%20agendar%20minha%20Sess%C3%A3o%20de%20Desbloqueio%20e%20Direcionamento."
