@@ -141,15 +141,23 @@ export default function ResultsPage() {
             ))}
           </div>
 
-          <div className="mt-8">
+          {/* CTA verde — dentro do card de diagnóstico */}
+          <div className="mt-8 rounded-2xl p-6 text-center" style={{ background: '#1E6F30' }}>
+            <h3 className="text-xl font-bold text-white mb-3">Quer um direcionamento personalizado?</h3>
+            <p className="text-brand-light text-sm leading-relaxed mb-5 max-w-sm mx-auto">
+              Na sessão diagnóstica ao vivo, você sai com nitidez sobre qual caminho seguir e um plano prático para realizar essa transformação.
+            </p>
             <a
               href="https://wa.me/5511957947776?text=Ol%C3%A1%20Sandr%C3%A4!%20Fiz%20o%20Raio%20X%20da%20Realidade%20e%20quero%20agendar%20minha%20Sess%C3%A3o%20de%20Desbloqueio%20e%20Direcionamento."
               target="_blank"
               rel="noopener noreferrer"
-              className="block w-full text-center bg-brand-dark text-white font-bold py-4 rounded-full hover:opacity-90 transition-opacity"
+              className="inline-flex items-center gap-2 bg-white text-brand-dark font-bold px-8 py-3 rounded-full hover:opacity-90 transition-opacity"
             >
-              Agende aqui sua Sessão de Desbloqueio e Direcionamento
+              Quero agendar minha Sessão de Desbloqueio e Direcionamento
             </a>
+            <p className="text-xs mt-4" style={{ color: 'rgba(155,225,152,0.8)' }}>
+              Seu resultado também foi enviado para o seu e-mail
+            </p>
           </div>
         </div>
 
@@ -191,23 +199,16 @@ export default function ResultsPage() {
           </div>
         </div>
 
-        {/* CTA */}
-        <div className="rounded-2xl p-6 text-center" style={{ background: '#1E6F30' }}>
-          <h3 className="text-xl font-bold text-white mb-3">Quer um direcionamento personalizado?</h3>
-          <p className="text-brand-light text-sm leading-relaxed mb-5 max-w-sm mx-auto">
-            Na sessão diagnóstica ao vivo, você sai com nitidez sobre qual caminho seguir e um plano prático para realizar essa transformação.
-          </p>
+        {/* Botão standalone após as 4 Áreas */}
+        <div>
           <a
             href="https://wa.me/5511957947776?text=Ol%C3%A1%20Sandr%C3%A4!%20Fiz%20o%20Raio%20X%20da%20Realidade%20e%20quero%20agendar%20minha%20Sess%C3%A3o%20de%20Desbloqueio%20e%20Direcionamento."
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 bg-white text-brand-dark font-bold px-8 py-3 rounded-full hover:opacity-90 transition-opacity"
+            className="block w-full text-center bg-brand-dark text-white font-bold py-4 rounded-full hover:opacity-90 transition-opacity"
           >
-            Quero agendar minha Sessão de Desbloqueio e Direcionamento
+            Agende aqui sua Sessão de Desbloqueio e Direcionamento
           </a>
-          <p className="text-xs mt-4" style={{ color: 'rgba(155,225,152,0.8)' }}>
-            Seu resultado também foi enviado para o seu e-mail
-          </p>
         </div>
 
         <div className="text-center pb-8">
